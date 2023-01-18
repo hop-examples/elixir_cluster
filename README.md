@@ -12,3 +12,5 @@ Follow the [Elixir Cluster](https://docs.hop.io/getting-started/quickstarts/elix
 
 You can find this app running here: https://libcluster-hop.hop.sh  
 Refresh to see the load balancing in action.
+
+> Special thanks to community member [Scott Hiett](https://github.com/hiett) for creating the libcluster_hop strategy.

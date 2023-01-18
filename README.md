@@ -6,7 +6,7 @@ This repo contains an example application which utilizes `libcluster_hop`.
 
 ## Run this on Hop
 
-Follow the [Elixir Clsuter](https://docs.hop.io/getting-started/quickstarts/elixir-cluster) quickstart guide.
+Follow the [Elixir Cluster](https://docs.hop.io/getting-started/quickstarts/elixir-cluster) quickstart guide.
 
 ## Demo
 
